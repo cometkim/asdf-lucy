@@ -1,4 +1,5 @@
 # asdf-lucy
+[![CI](https://github.com/cometkim/asdf-lucy/actions/workflows/ci.yml/badge.svg)](https://github.com/cometkim/asdf-lucy/actions/workflows/ci.yml)
 
 [Lucy DSL](https://lucylang.org/) plugin for [asdf](https://asdf-vm.com/) version manager.
 
